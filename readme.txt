@@ -2,3 +2,5 @@
 天天向上
 
 hhhhh 
+
+Creating a new branch is quick.
